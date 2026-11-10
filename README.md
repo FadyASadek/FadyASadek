@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Fady Ashraf 
 
-<!--
-**FadyASadek/FadyASadek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** specializing in **Backend & Full-Stack Web Development** using the **.NET ecosystem** and **Angular**. I enjoy designing clean, maintainable architectures, secure authentication flows, and scalable database systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Stack & Tools
+
+- **Backend:** C#, ASP.NET Core, Web API, MVC, Entity Framework Core
+- **Frontend:** Angular, TypeScript, RxJS, HTML5, CSS3/SCSS
+- **Database & Storage:** Microsoft SQL Server, Redis, MinIO
+- **Architecture & Practices:** Clean Architecture, SOLID Principles, RESTful APIs, OIDC / OAuth 2.0
+- **DevOps & Environment:** Docker, Caddy, Git, Linux, PowerShell
+
+---
+
+###  Highlighted Focus Areas
+
+- Designing modular backends with **Clean Architecture** and **Domain-Driven** practices.
+- Building full-stack applications connecting **ASP.NET Core APIs** with modern **Angular SPAs**.
+- Containerizing services and managing reverse-proxy deployments with **Docker**.
+
+---
+
+###  Connect with Me
+
